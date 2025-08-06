@@ -6,3 +6,4 @@ cloudflare.com
 https://ljxi.github.io/NetworkPanel
 www.speedtest.net
 ip.sb
+speed.cloudflare.com
