@@ -1,4 +1,5 @@
 chatgpt.com
 twitch.tv
 tiktok.com
-gemini.google.com/
+gemini.google.com
+cloudflare.com
