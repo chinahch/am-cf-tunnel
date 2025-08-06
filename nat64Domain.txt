@@ -3,3 +3,4 @@ twitch.tv
 tiktok.com
 gemini.google.com
 cloudflare.com
+ljxi.github.io
